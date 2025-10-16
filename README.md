@@ -1,2 +1,28 @@
-# portfolio
-Portfolio is a personal profile that showcases my products, projects or achievements to introduce my backend-developer skills, abilities and experience in some specific projects.
+# 🌐 Do Xuan Chien | Portfolio
+
+Welcome to my personal portfolio website!  
+This project showcases my skills, projects, and contact information.
+
+## 🧠 About Me
+I'm a final-year Software Engineering student at **Ho Chi Minh City University of Transport (UTH)**.  
+Passionate about **Back-End Development**, I focus on building efficient, scalable, and secure systems.
+
+## 💻 Tech Stack
+- **Languages:** Java, JavaScript, C#, Python  
+- **Frameworks:** Spring Boot, Node.js, Express, Django  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools:** Git, Docker, Postman  
+
+## 🚀 Projects
+- [Appointment Booking Platform](https://github.com/DoChien2024/Appointment-Booking-Platform)
+- [BookHub](https://github.com/DoChien2024/BookHub)
+- [Coffee Sales App](https://github.com/DoChien2024/Coffee-Safes-App)
+- [MobileShoppe](https://github.com/DoChien2024/MobileShoppe)
+
+## 🌍 Live Demo
+👉 [https://dochien2024.github.io/portfolio/](https://dochien2024.github.io/portfolio/)
+
+## 📬 Contact
+- **Email:** chiendo2024@gmail.com  
+- **GitHub:** [DoChien2024](https://github.com/DoChien2024)
+
